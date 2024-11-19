@@ -28,7 +28,6 @@
 <br>
   <br>
   
-**[![AlbaS-R's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlbaS-R&theme=tokyonight)](https://git.io/praveenscience)**
 
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaS-R&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AlbaS-R&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
